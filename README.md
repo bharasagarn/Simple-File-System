@@ -1,5 +1,5 @@
 # Simple-File-System
-Implementation of a simplified version of the UNIX file system.
+Implementation of a simplified version of the UNIX file system. A project from the course *CSE 30341 Operating System Principles* of the CSE program at the *University of Notre Dame*.
 
 There are 3 levels :
 1. Shell - Allow users to perform operations on the file system such as - debug (printing debugging info about FS), format, mount, create a file, copy (data in/out of the FS). Shell will convert these user commands into FS operations such as - FS.debug, FS.format, FS.create, FS.read, FS.write.
